@@ -1,1 +1,0 @@
-# platform_external_xmp_toolkit
